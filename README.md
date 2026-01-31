@@ -101,12 +101,6 @@
 
 ---
 
-## 📊 GitHub 统计
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiangbingo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=7F5AF0&icon_color=7F5AF0&text_color=FFFFF0&hide=prs,issues,discussions)
-
----
-
 ### 💬 欢迎交流 AI、后端开发、云原生技术！
 
 *Made with ❤️ by [Bingo Jiang](https://jiangbingo.github.io)*
