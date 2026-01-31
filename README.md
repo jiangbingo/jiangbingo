@@ -1,76 +1,76 @@
 <div align="center">
 
-# 🤖 Bingo Jiang | 江斌
-### AI 应用工程师 · Python 后端 · 15+ 年经验
+# Bingo Jiang
+### AI Application Engineer · Python Backend · 15+ years experience
 
-**工业级 AI 实践** | **云原生架构** | **YOLOv8 + LLM + FastAPI**
+**Industrial AI Practice** | **Cloud-Native Architecture** | **YOLOv8 + LLM + FastAPI**
 
-[🌐 jiangbingo.github.io](https://jiangbingo.github.io) · [📧 jiangbingo@hotmail.com](mailto:jiangbingo@hotmail.com)
+[jiangbingo.github.io](https://jiangbingo.github.io) · [jiangbingo@hotmail.com](mailto:jiangbingo@hotmail.com)
 
 ---
 
-## 🏆 精选项目
+## Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 缺陷检测大模型应用平台
+### Defect Detection Platform
 
-融合 **YOLOv8** 视觉模型与通用 **LLM**，支持在线缺陷识别与判定
+Combines **YOLOv8** vision models with general **LLM** for online defect detection and judgment
 
-**📊 业务价值** | **⚡ 技术深度**
+**Business Value** | **Technical Depth**
 
-| 服务 3+ 产线 | 推理 <50ms |
-|:----------:|:----------:|
-| 准确率 96%  | 并发 100+  |
-| 成本 ↓60%   | GPU 加速   |
+| 3+ production lines | Inference <50ms |
+|:------------------:|:---------------:|
+| 96% accuracy       | 100+ concurrent |
+| 60% cost reduction | GPU accelerated |
 
-[🔗 查看项目](#) [⭐ 生产运行中](#)
+[View Project](#) [In Production](#)
 
 </td>
 <td width="50%">
 
-### 🧠 RAG 智能问答系统
+### RAG Q&A System
 
-企业知识库 + **Text-to-SQL** + Agent RAG 实践
+Enterprise knowledge base + **Text-to-SQL** + Agent RAG implementation
 
-**📊 业务价值** | **⚡ 技术深度**
+**Business Value** | **Technical Depth**
 
-| 支持 10K+ 文档 | 查询 <2s |
-|:-------------:|:--------:|
-| 覆盖 5+ 业务线 | Milvus 向量检索 |
-| 人力节省 40%   | PostgreSQL 持久化 |
+| 10K+ documents supported | Query <2s |
+|:------------------------:|:---------:|
+| 5+ business lines covered | Milvus vector search |
+| 40% manpower saved        | PostgreSQL persistence |
 
-[🔗 查看项目](#) [⭐ 开源 MIT](#)
+[View Project](#) [Open Source MIT](#)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🔬 质量分析平台 (piyi-api)
+### Quality Analysis Platform (piyi-api)
 
-**UMAP 降维** + **HDBSCAN 聚类**，高维数据可视化分析
+**UMAP dimensionality reduction** + **HDBSCAN clustering**, high-dimensional data visualization
 
-| 处理 100K+ 样本 | 可视化 <5s |
-|:--------------:|:----------:|
-| 15+ 维度特征    | TensorFlow + Keras |
+| 100K+ samples processed | Visualization <5s |
+|:-----------------------:|:-----------------:|
+| 15+ dimensional features | TensorFlow + Keras |
 
-[🔗 查看项目](#) [⭐ 内部使用](#)
+[View Project](#) [Internal Use](#)
 
 </td>
 <td width="50%">
 
-### ⚡ AI 推理引擎 (AI-Project)
+### AI Inference Engine (AI-Project)
 
-可独立安装的 **Python 包**，支持 GPU 加速推理
+Stand-alone **Python package** with GPU-accelerated inference
 
-| 支持 5+ 模型格式 | ONNX 优化 |
-|:---------------:|:---------:|
-| pip 一键安装    | PyTorch 后端 |
+| 5+ model formats supported | ONNX optimized |
+|:--------------------------:|:--------------:|
+| pip one-click install      | PyTorch backend |
 
-[🔗 查看项目](#) [⭐ 开源 Apache 2.0](#)
+[View Project](#) [Open Source Apache 2.0](#)
 
 </td>
 </tr>
@@ -78,30 +78,42 @@
 
 ---
 
-## 🎯 核心能力
+## Skills
 
-| 🤖 AI/ML | ⚙️ Python 后端 | ☁️ 云原生 |
-|:--------:|:--------------:|:--------:|
-| RAG · LLM · PyTorch | FastAPI · Django · 异步 | Azure · Serverless · Docker |
+| AI/ML | Python Backend | Cloud-Native |
+|:-----:|:--------------:|:------------:|
+| RAG · LLM · PyTorch | FastAPI · Django · Async | Azure · Serverless · Docker |
 | Agent · Text-to-SQL | RESTful · Celery · RabbitMQ | CI/CD · ML Endpoint |
-| YOLOv8 · ONNX | Pydantic · PostgreSQL | DevOps · 监控 |
+| YOLOv8 · ONNX | Pydantic · PostgreSQL | DevOps · Monitoring |
 
 ---
 
-## 🔭 当前关注
+## Focus
 
-**🌱 正在学习**
+### Learning
 - Diffusion Models & Real-time AI pipelines
-- LLM 微调与多模态系统
+- LLM fine-tuning & multimodal systems
 
-**🚀 正在构建**
-- 缺陷检测大模型应用平台
-- RAG 智能问答系统
-- AI 推理引擎
+### Building
+- Defect Detection Platform
+- RAG Q&A System
+- AI Inference Engine
 
 ---
 
-### 💬 欢迎交流 AI、后端开发、云原生技术！
+## Contact
+
+<div align="center">
+
+<img src="images/wechat-qr.png" alt="WeChat QR Code" width="200" />
+
+**Scan to connect on WeChat**
+
+</div>
+
+[jiangbingo@hotmail.com](mailto:jiangbingo@hotmail.com) · [jiangbingo.github.io](https://jiangbingo.github.io)
+
+---
 
 *Made with ❤️ by [Bingo Jiang](https://jiangbingo.github.io)*
 
