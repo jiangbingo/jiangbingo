@@ -1,5 +1,3 @@
-<div align="center">
-
 # Bingo Jiang
 ### AI Application Engineer · Python Backend · 15+ years experience
 
@@ -103,18 +101,12 @@ Stand-alone **Python package** with GPU-accelerated inference
 
 ## Contact
 
-<div align="center">
-
-<img src="images/wechat-qr.png" alt="WeChat QR Code" width="200" />
+<img src="images/wechat_qrcode.jpg" alt="WeChat QR Code" width="200" />
 
 **Scan to connect on WeChat**
-
-</div>
 
 [jiangbingo@hotmail.com](mailto:jiangbingo@hotmail.com) · [jiangbingo.github.io](https://jiangbingo.github.io)
 
 ---
 
 *Made with ❤️ by [Bingo Jiang](https://jiangbingo.github.io)*
-
-</div>
