@@ -9,10 +9,6 @@
 
 AI 应用开发工程师，专注于工业视觉检测、RAG 系统、Python 后端开发。15 年技术经验，从传统软件架构到现代 AI 工程化实践。
 
-**Location**: Hangzhou, China
-**Email**: jiangbingo@hotmail.com
-**Website**: [jiangbingo.github.io](https://jiangbingo.github.io)
-
 ---
 
 ## 🚀 Projects
