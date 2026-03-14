@@ -31,7 +31,7 @@ Combines **YOLOv8** vision models with general **LLM** for online defect detecti
 | 96% accuracy       | 100+ concurrent |
 | 60% cost reduction | GPU accelerated |
 
-[View Code](https://github.com/jiangbingo/defect-detection) · [Live Demo](#)
+[View Code](https://github.com/jiangbingo/defect-detection) · [Live Demo](https://demo.jiangbingo.com/defect-detection)
 
 </td>
 <td width="50%">
@@ -46,7 +46,7 @@ Enterprise knowledge base + **Text-to-SQL** + Agent RAG implementation
 | 5+ business lines covered | Milvus vector search |
 | 40% manpower saved        | PostgreSQL persistence |
 
-[View Code](https://github.com/jiangbingo/rag-qa-system) · [Documentation](#)
+[View Code](https://github.com/jiangbingo/rag-qa-system) · [Documentation](https://docs.jiangbingo.com/rag-qa-system)
 
 </td>
 </tr>
@@ -61,7 +61,7 @@ Enterprise knowledge base + **Text-to-SQL** + Agent RAG implementation
 |:-----------------------:|:-----------------:|
 | 15+ dimensional features | TensorFlow + Keras |
 
-[View Code](https://github.com/jiangbingo/piyi-api) · [Internal Use](#)
+[View Code](https://github.com/jiangbingo/piyi-api) · [Internal Use](#internal-project)
 
 </td>
 <td width="50%">
@@ -74,7 +74,7 @@ Stand-alone **Python package** with GPU-accelerated inference
 |:--------------------------:|:--------------:|
 | pip one-click install      | PyTorch backend |
 
-[View Code](https://github.com/jiangbingo/ai-inference-engine) · [PyPI Package](#)
+[View Code](https://github.com/jiangbingo/ai-inference-engine) · [PyPI Package](https://pypi.org/project/ai-inference-engine)
 
 </td>
 </tr>
