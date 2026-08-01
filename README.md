@@ -41,8 +41,6 @@ Combines **YOLOv8** vision models with general **LLM** for online defect detecti
 | 96% accuracy | 100+ concurrent |
 | 60% cost reduction | GPU accelerated |
 
-[View Code](https://github.com/jiangbingo)
-
 </td>
 </tr>
 <tr>
@@ -58,8 +56,6 @@ Enterprise knowledge base + **Text-to-SQL** + Agent RAG implementation
 | 5+ business lines covered | Milvus vector search |
 | 40% manpower saved | PostgreSQL persistence |
 
-[View Code](https://github.com/jiangbingo)
-
 </td>
 <td width="50%">
 
@@ -70,8 +66,6 @@ Enterprise knowledge base + **Text-to-SQL** + Agent RAG implementation
 | 100K+ samples processed | Visualization <5s |
 |:-----------------------:|:-----------------:|
 | 15+ dimensional features | TensorFlow + Keras |
-
-[View Code](https://github.com/jiangbingo)
 
 </td>
 </tr>
@@ -104,7 +98,7 @@ Enterprise knowledge base + **Text-to-SQL** + Agent RAG implementation
 
 ---
 
-## 📫 Contact & Connect
+## 📫 Contact
 
 <p align="left">
   <a href="mailto:jiangbingo@hotmail.com">
@@ -113,15 +107,9 @@ Enterprise knowledge base + **Text-to-SQL** + Agent RAG implementation
   <a href="https://jiangbingo.github.io">
     <img src="https://img.shields.io/badge/Website-jiangbingo.github.io-green?style=flat-square&logo=google-chrome" alt="Website">
   </a>
-  <a href="https://github.com/jiangbingo">
-    <img src="https://img.shields.io/badge/GitHub-jiangbingo-black?style=flat-square&logo=github" alt="GitHub">
-  </a>
 </p>
 
-### WeChat
-Scan to connect:
-
-<img src="images/wechat_qrcode.jpg" alt="WeChat QR Code" width="200" />
+<img src="images/wechat_qrcode.jpg" alt="WeChat QR Code" width="160" />
 
 ---
 
@@ -147,10 +135,4 @@ Scan to connect:
 
 ---
 
-<p align="center">
-  <i>"从嵌入式到 LLM 平台，让大模型在真实业务中稳定运行"</i>
-</p>
-
----
-
-_Updated: June 2026_
+_Updated: August 2026_
