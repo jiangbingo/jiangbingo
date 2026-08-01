@@ -102,10 +102,10 @@ Enterprise knowledge base + **Text-to-SQL** + Agent RAG implementation
 
 <p align="left">
   <a href="mailto:jiangbingo@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-jiangbingo%40hotmail.com-blue?style=flat-square&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/✉️%20Email-blue?style=flat-square" alt="Email">
   </a>
   <a href="https://jiangbingo.github.io">
-    <img src="https://img.shields.io/badge/Website-jiangbingo.github.io-green?style=flat-square&logo=google-chrome" alt="Website">
+    <img src="https://img.shields.io/badge/🌐%20Blog-green?style=flat-square" alt="Blog">
   </a>
 </p>
 
