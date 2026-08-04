@@ -104,9 +104,6 @@ Enterprise knowledge base + **Text-to-SQL** + Agent RAG implementation
   <a href="mailto:jiangbingo@hotmail.com">
     <img src="https://img.shields.io/badge/✉️%20Email-blue?style=flat-square" alt="Email">
   </a>
-  <a href="https://jiangbingo.github.io">
-    <img src="https://img.shields.io/badge/🌐%20Blog-green?style=flat-square" alt="Blog">
-  </a>
 </p>
 
 <img src="images/wechat_qrcode.jpg" alt="WeChat QR Code" width="160" />
