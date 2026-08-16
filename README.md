@@ -101,6 +101,9 @@ Enterprise knowledge base + **Text-to-SQL** + Agent RAG implementation
 ## 📫 Contact
 
 <p align="left">
+  <a href="https://jiangbin-ai.pages.dev">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20AI%E9%97%A8%E6%88%B7-jiangbin--ai.pages.dev-ffd23f?style=flat-square" alt="AI Portal">
+  </a>
   <a href="mailto:jiangbingo@hotmail.com">
     <img src="https://img.shields.io/badge/✉️%20Email-blue?style=flat-square" alt="Email">
   </a>
