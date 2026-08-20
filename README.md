@@ -1,137 +1,76 @@
 # Bingo Jiang
-### AI Application Engineer · LLM Platform · Full-Stack
 
-**From Embedded to LLM Platform** | **Model Inference & Deployment** | **vLLM · FastAPI · React**
+### Agent EDA Platform 技术负责人 · AI 应用开发工程师
 
----
+**LLM 平台工程 · 推理服务 · Agent 工作流 · AI 应用全栈开发**
 
-## 🎯 About Me
+## 关于我
 
-从嵌入式到 LLM 平台，跨越硬件与 AI 的全栈工程师。专注模型推理部署与 AI 应用工程化，让大模型在真实业务中稳定运行。
+我是一名 AI 应用开发工程师，现负责 Agent EDA Platform 的架构与全栈开发。从嵌入式软件走到 LLM 平台工程，关注如何把模型能力转化为**可控、可观测、可评测**的真实业务系统。
 
----
+我的工作重点包括模型服务与推理部署、异步任务编排、RAG 与 Agent 工作流、Verilog AI 辅助编程，以及面向复杂工程场景的验证闭环。
 
-## 🚀 Projects
+## 当前聚焦
 
-<table>
-<tr>
-<td width="50%">
+| 方向 | 工程关键词 |
+|---|---|
+| LLM 训推一体化 | OpenAI 兼容接口、流式服务、模型生命周期、运行时路由 |
+| Agent EDA | Verilog AI 辅助编程、受控工具调用、执行节点、验证闭环 |
+| AI 应用工程化 | FastAPI、React、Celery、Redis、PostgreSQL、Docker、CI/CD |
+| 评测与可靠性 | 领域基准、任务状态机、可观测性、权限与审计 |
 
-### 🤖 Agent EDA — LLM 训推一体化平台
+## 代表性工作
 
-LLM training-inference platform with **OpenAI-compatible Chat API**, pluggable inference backends, and Verilog AI-assisted programming
+### Agent EDA — LLM 训推一体化平台
 
-| Capability | Stack |
-|:------------------:|:---------------:|
-| Streaming + Thinking mode | vLLM / MLX |
-| Model lifecycle management | FastAPI + React |
-| Verilog EDA + AI Agent | Monaco Editor |
-| Model evaluation (lm-eval) | Celery + Redis |
+一个面向芯片设计工作流的 LLM 平台工程案例。重点不只是“生成代码”，而是将模型服务、异步任务、受控执行节点与领域验证结合为可运营的工程闭环。
 
-</td>
-<td width="50%">
+- 设计统一的对话与流式服务入口，并隔离不同推理后端的实现差异。
+- 覆盖模型注册、部署、推理与评测等生命周期环节，支持可追踪的任务编排。
+- 将 Verilog AI 辅助编程接入受控的编译、仿真与验证工作流。
+- 以结构化产物、评测记录与审计边界支撑持续迭代。
 
-### 🔍 Defect Detection Platform
+> 公开材料仅包含经过脱敏和授权的架构方法论；生产源码、数据、凭据、环境配置及合作方信息均不公开。
 
-Combines **YOLOv8** vision models with general **LLM** for online defect detection and judgment
+### 其他 AI 应用实践
 
-| Business Value | Technical Depth |
-|:------------------:|:---------------:|
-| 3+ production lines | Inference <50ms |
-| 96% accuracy | 100+ concurrent |
-| 60% cost reduction | GPU accelerated |
+- **缺陷检测大模型应用平台**：将专用视觉模型与通用模型能力组合为工业缺陷识别与分析工作流。
+- **RAG 智能问答系统**：围绕企业知识检索、自然语言查询与多轮对话设计可维护的后端服务。
+- **质量分析平台**：以数据处理、聚类与可视化支持质量分析场景。
+- **AI 推理引擎**：围绕目标检测与加速推理构建可复用的 Python 工程能力。
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+## 公开项目
 
-### 💬 RAG Q&A System
+| 项目 | 说明 |
+|---|---|
+| [AI Learning Hub](https://github.com/jiangbingo/ai-learning-hub) | Vibe Coding 与 Agent 学习地图、工程方法与资源整理 |
+| [Bingo Agent Hub](https://github.com/jiangbingo/bingo-agent-hub) | 统一的 AI Agent 平台入口 |
+| [Mission Control](https://github.com/jiangbingo/mission-control) | 面向任务调度与可视化的控制台实践 |
+| [RepoCleaner](https://github.com/jiangbingo/repoCleaner) | AI 驱动的 GitHub 仓库清理辅助工具 |
+| [YoudaoNote → Obsidian](https://github.com/jiangbingo/youdaonote-to-obsidian) | 有道云笔记迁移至 Obsidian 的工具 |
+| [Bingo InvestTrack](https://github.com/jiangbingo/bingoInvestTrack) | AI 搜索增强的数据追踪仪表盘实践 |
 
-Enterprise knowledge base + **Text-to-SQL** + Agent RAG implementation
+## 技术栈
 
-| Business Value | Technical Depth |
-|:------------------------:|:---------:|
-| 10K+ documents supported | Query <2s |
-| 5+ business lines covered | Milvus vector search |
-| 40% manpower saved | PostgreSQL persistence |
+| AI / ML | 后端与数据 | 前端与基础设施 |
+|---|---|---|
+| LLM、RAG、Agent、模型评测、vLLM、MLX | Python、FastAPI、Celery、Redis、PostgreSQL、Pydantic | React、TypeScript、Docker、GitHub Actions、Gitea CI/CD |
 
-</td>
-<td width="50%">
+## 工作经历
 
-### 📊 Quality Analysis Platform (piyi-api)
+| 时间 | 公司 | 职责 |
+|---|---|---|
+| 2026.03 – 至今 | 亿方杭创 | Agent EDA Platform 技术负责人 / AI 应用开发工程师 |
+| 2024.11 – 2026.03 | 杭州克雷登工业 | AI 应用开发工程师 |
+| 2024.08 – 2024.10 | 杭州人本集团 | Python 后端开发工程师 |
+| 2016.10 – 2023.05 | 诺基亚通信 | 测试开发工程师 |
 
-**UMAP dimensionality reduction** + **HDBSCAN clustering**, high-dimensional data visualization
+## 联系方式
 
-| 100K+ samples processed | Visualization <5s |
-|:-----------------------:|:-----------------:|
-| 15+ dimensional features | TensorFlow + Keras |
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Skills
-
-| AI/ML | Python Backend | Infrastructure |
-|:-----:|:--------------:|:--------------:|
-| RAG · LLM · vLLM | FastAPI · Django · Async | Docker Compose · Nginx |
-| Agent · Model Evaluation | Celery · Redis · SQLModel | GitHub Actions · Gitea CI |
-| PyTorch · MLX | Pydantic · PostgreSQL | Azure ML · DevOps |
-| Prompt Engineering | React · TypeScript | Monitoring · CI/CD |
-
----
-
-## 🔥 Focus Areas
-
-### 📚 Currently Learning
-- Agentic AI systems & multi-agent orchestration
-- LLM fine-tuning & model evaluation
-- RAG optimization & retrieval quality
-
-### 🏗️ Building
-- **Agent EDA Platform** - LLM training-inference platform with Verilog AI-assisted programming
-- **RAG Q&A System** - Enterprise knowledge base with natural language query
-- **AI Inference Engine** - Optimized inference for edge deployment
-
----
-
-## 📫 Contact
-
-<p align="left">
-  <a href="https://jiangbin-ai.pages.dev">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20AI%E9%97%A8%E6%88%B7-jiangbin--ai.pages.dev-ffd23f?style=flat-square" alt="AI Portal">
-  </a>
-  <a href="mailto:jiangbingo@hotmail.com">
-    <img src="https://img.shields.io/badge/✉️%20Email-blue?style=flat-square" alt="Email">
-  </a>
-</p>
-
-<img src="images/wechat_qrcode.jpg" alt="WeChat QR Code" width="160" />
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://stats.justsong.cn/api/github/?username=jiangbingo" alt="GitHub Stats" width="48%">
-  <img src="https://ghchart.rshah.org/jiangbingo" alt="GitHub Contribution Chart" width="48%">
-</p>
-
----
-
-## 💼 Experience
-
-| Period | Company | Role |
-|--------|---------|------|
-| 2026.03 - Present | 浙江亿方杭创科技有限公司 | AI 应用开发工程师 |
-| 2024.11 - 2026.03 | 杭州克雷登工业 | AI 应用开发工程师 |
-| 2024.08 - 2024.10 | 杭州人本集团 | python开发工程师 |
-| 2016.10 - 2023.05 | 诺基亚通信 | 软件工程师 |
-| 2014.12 - 2016.10 | 杭州格菱科技 | python开发工程师 |
-| 2010.07 - 2014.09 | 西子优迈 | 软件开发工程师 |
+- [AI 个人站](https://jiangbin-ai.pages.dev)
+- [项目案例](https://jiangbin-ai.pages.dev/projects)
+- [在线简历](https://jiangbin-resume.vercel.app)
+- [Email](mailto:jiangbingo@hotmail.com)
 
 ---
 
