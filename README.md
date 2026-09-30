@@ -71,7 +71,7 @@
 
 - [AI 个人站](https://jiangbin-ai.pages.dev)
 - [公开项目案例](https://jiangbin-ai.pages.dev/projects)
-- [在线简历](https://jiangbin-resume.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/jiangbingo/)
 - [Email](mailto:jiangbingo@hotmail.com)
 
 ---
