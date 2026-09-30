@@ -16,7 +16,7 @@
 | --- | --- |
 | LLM 推理与服务 | OpenAI 兼容接口、流式服务、模型生命周期、运行时路由、模型评测 |
 | Agent 工作流 | 受控工具调用、异步任务、执行节点、结构化产物与验证闭环 |
-| AI 应用工程化 | FastAPI、React、Celery、Redis、PostgreSQL、Docker、CI/CD |
+| AI 应用工程化 | FastAPI、Celery、Redis、PostgreSQL、Docker、CI/CD |
 | 可靠性与产品化 | 可观测性、权限边界、任务状态机、审计与持续迭代 |
 
 ## 代表性工程实践
@@ -29,6 +29,16 @@
 - 覆盖模型注册、部署、推理与评测等生命周期环节，支持可追踪的任务编排。
 - 将 AI 辅助编程接入受控的编译、仿真与验证工作流，强调可复核的结构化产物。
 - 通过权限、审计、评测记录和观测反馈支撑持续迭代。
+
+### AI 基础设施与平台工程
+
+围绕 AI 系统的承载层与运维面，构建从服务入口、配置治理到交付监控的基础设施实践。
+
+| 方向 | 实践重点 |
+| --- | --- |
+| 内部 GPU 智算平台门户（企业环境，已脱敏） | 统一门户与运维控制台：聚合推理服务、AI 编码 Agent、实验追踪、HPC 作业调度等近 30 个自托管服务入口，提供实时健康探测、集群状态与凭据管理，经 CI/CD 自动部署。 |
+| [个人站平台层](https://jiangbin-ai.pages.dev) | Cloudflare Workers 多通道 LLM 网关（协议翻译、SSE 流式转换、服务端参数钳制、每日额度限流）、GitHub OAuth + JWT 鉴权、KV 运营配置与管理后台、单管线 CI/CD 与生产冒烟监控。 |
+| AI 工程知识库（Obsidian，约 200 篇） | LLM 推理部署与调优、Agent 工具链、Harness / Context Engineering、HPC 调度等工程笔记；部分精选经[公开博客](https://jiangbin-ai.pages.dev/blog)发布。 |
 
 ### 其他 AI 应用实践
 
@@ -50,9 +60,9 @@
 
 ## 技术栈
 
-| AI / ML | 后端与数据 | 前端与基础设施 |
-| --- | --- | --- |
-| LLM、RAG、Agent、模型评测、vLLM、MLX、PyTorch、ONNX | Python、FastAPI、Celery、Redis、PostgreSQL、Milvus、Pydantic | React、TypeScript、Docker、GitHub Actions、Gitea CI/CD、可观测性 |
+| AI / ML | 后端与数据 | 前端 | 基础设施与 DevOps |
+| --- | --- | --- | --- |
+| LLM、RAG、Agent、模型评测、vLLM、MLX、PyTorch、ONNX | Python、FastAPI、Celery、Redis、PostgreSQL、Milvus、Pydantic | React、TypeScript、Vite、Tailwind CSS | Docker、GitHub Actions、Gitea CI/CD、Cloudflare Workers、可观测性 |
 
 ## 公开开源项目
 
@@ -76,4 +86,4 @@
 
 ---
 
-_Updated: August 2026_
+_Updated: September 2026_
